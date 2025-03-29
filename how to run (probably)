@@ -1,0 +1,4 @@
+1. download file
+2. go to terimnal with JDK
+3. compile with javac basicShapeDrawer.java
+4. run with java basicShapeDrawer
